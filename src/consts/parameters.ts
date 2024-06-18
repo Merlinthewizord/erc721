@@ -2,11 +2,11 @@
 
 // Your smart contract address (available on the thirdweb dashboard)
 // For existing collections: import your existing contracts on the dashboard: https://thirdweb.com/dashboard
-export const contractConst = "0x436492DBc2E30E56FaC8F2297BD1964833c0687d";
+export const contractConst = "0xBa66bc3c10be295aA98d2335a3256F6170a27A3b";
 
 // The name of the chain your contract is deployed to.
 // Refer to README.md on how to specify the chain name.
-export const chainConst = "mumbai";
+export const chainConst = "SANKO";
 
 // It is IMPORTANT to provide your own API key to use the thirdweb SDK and infrastructure.
 // Please ensure that you define the correct domain for your API key from the API settings page.
